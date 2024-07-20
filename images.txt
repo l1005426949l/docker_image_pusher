@@ -1,2 +1,3 @@
 ghcr.io/open-webui/open-webui:ollama
 docker pull python:3.12.4-bookworm
+mysql:oraclelinux9
