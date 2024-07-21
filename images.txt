@@ -2,3 +2,4 @@ ghcr.io/open-webui/open-webui:ollama
 python:3.12.4-bookworm
 mysql:oraclelinux9
 neo4j:ubi9
+spark:3.5.1-scala2.12-java17-python3-ubuntu
