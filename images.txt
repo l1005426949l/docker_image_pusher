@@ -1,1 +1,1 @@
-python:3.12.5-bookworm
+python:3.12.5
