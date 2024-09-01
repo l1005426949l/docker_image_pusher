@@ -1,9 +1,1 @@
-ghcr.io/open-webui/open-webui:ollama
-ghcr.io/open-webui/open-webui:dev
-ghcr.io/open-webui/open-webui:main
-ollama/ollama:0.3.8-rocm
-ollama/ollama:0.3.8
 python:3.12.5-bookworm
-mysql:9.0.1-oraclelinux9
-neo4j:5.23.0
-spark:3.5.1-scala2.12-java17-python3-ubuntu
