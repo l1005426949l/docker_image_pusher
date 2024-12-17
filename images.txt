@@ -1,1 +1,5 @@
-ollama/ollama:0.4.6
+golang:1.23.4
+python:3.14.0a2
+mysql:8.0.40-debian
+caddy:2.9
+nginx:1.27.3-perl
