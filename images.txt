@@ -1,1 +1,1 @@
-node:23.5.0-slim
+lmsysorg/sglang:v0.4.3.post2-cu125
